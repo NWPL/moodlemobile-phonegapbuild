@@ -10513,10 +10513,10 @@ a.button {
  * App Branding
  */
 .mm-bglogo {
-  background-color: #ffffff;
+  background-color: #00AEEF;
   /* Change this to add a bg image or change color */
-  background: -webkit-radial-gradient(#ffffff, #ffffff);
-  background: radial-gradient(#ffffff, #ffffff);
+  background: -webkit-radial-gradient(#00AEEF, #00AEEF);
+  background: radial-gradient(#00AEEF, #00AEEF);
   background-repeat: no-repeat;
   background-position: center center;
   position: absolute;
