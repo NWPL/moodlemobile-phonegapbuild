@@ -1,7 +1,7 @@
 {
     "app_id" : "com.out.tclems",
     "appname": "TCLMS",
-    "desktopappname": "Moodle Desktop",
+    "desktopappname": "TCLMS",
     "versioncode" : "2019",
     "versionname" : "3.3.1",
     "cache_expiration_time" : 300000,
