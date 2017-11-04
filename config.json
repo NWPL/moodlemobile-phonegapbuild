@@ -2,7 +2,7 @@
     "app_id" : "com.out.tclems",
     "appname": "TCLMS",
     "desktopappname": "TCLMS",
-    "versioncode" : "2019",
+    "versioncode" : "20180",
     "versionname" : "3.3.1",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
