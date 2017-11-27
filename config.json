@@ -1,7 +1,7 @@
 {
-    "app_id" : "com.out.outlems",
+    "app_id" : "com.out.outlemstz",
     "appname": "OUTLeMS",
-    "desktopappname": "Moodle Desktop",
+    "desktopappname": "OUTLeMS",
     "versioncode" : "2019",
     "versionname" : "3.3.1",
     "cache_expiration_time" : 300000,
