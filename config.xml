@@ -2,13 +2,13 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.out.outlems"
+        id        = "com.out.outlemstz"
         versionCode = "20190"
         version   = "3.3.1">
     <name>OUTLeMS</name>
 
     <description>
-        Moodle Mobile official app for Open University of Tanzania
+        OUTLeMS official app for Open University of Tanzania
     </description>
 
     <author href="https://www.out.ac.tz/" email="fragma093@gmail.com">
@@ -146,7 +146,7 @@
     <gap:plugin name="ch.ti8m.documenthandler" spec="https://github.com/ti8m/DocumentHandler.git" source="git" />
 
     <gap:config-file platform="android" parent="/manifest">
-         <application android:debuggable="true" />
+         <application android:debuggable="false" />
     </gap:config-file>
 
     <!-- See MOBILE-892 -->
